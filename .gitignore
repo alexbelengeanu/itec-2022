@@ -1,4 +1,9 @@
 # There is a list of ignored files that will not be uploaded on Git
 
-# Virtual Environment 
+# folders
 venv
+dataset
+**/.ipynb_checkpoints
+
+#files
+labels.csv
