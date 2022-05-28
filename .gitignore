@@ -3,6 +3,7 @@
 # folders
 venv
 dataset
+dataset-aug
 **/.ipynb_checkpoints
 
 #files
