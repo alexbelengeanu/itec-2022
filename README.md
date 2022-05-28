@@ -12,6 +12,5 @@ Repository made for iTec 2022
 
 
 ### how to run? ###
-After you finish the setup for this repo, all you have to do is open a python terminal and run `python3 .\script.py`
-Hopefully there are no hardcoded absolute paths, I tried my best to use only paths relative to the repository :)
-apologies in advance if I missed any path of this kind
+* After you finish the setup for this repo, all you have to do is open a python terminal and run `python3 .\script.py` Hopefully there are no hardcoded absolute paths, I tried my best to use only paths relative to the repository :)
+* apologies in advance if I missed any path of this kind
